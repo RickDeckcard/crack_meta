@@ -34,7 +34,7 @@ Consejos
 ----------
 1. Si la lista de passwords es muy larga tendrás que utilizar otro sistema ya que se puede hacer eterno.
 2. No me preguntes sobre la instalación de btcrecover ya que es algo complicado si no tienes conocimientos a fondo de la herramienta, sólo preguntas sobre esta herramienta.
-3. Si quieres ver como funciona la herramienta puedes ver el siguiente video de mi canal de Youtube.
+3. Si quieres ver como funciona la herramienta puedes ver el siguiente video de mi canal de Youtube. https://www.youtube.com/watch?v=AaGf-hqteDk
 4. Si no te funciona y lo tienes todo instalado correctamente prueba abrir como administrador la ventana cmd.
 
 -------------
@@ -42,5 +42,12 @@ Mis Servicios
 -------------
 Si necesitas recuperar tus fondos puedes contactar conmigo a través de mi web deckcard23.com
 sólo cobro en caso de conseguir recuperarlos.
+
+-------------
+Donaciones
+-------------
+Si te ha resultado útil mi herramienta y ayuda para recuperar tus criptodivisas, ya sabes, es de buen nacido ser agradecido.
+
+BTC:  3JPHkwxD5Xd3RgnTZRv1Yrpt3vFfEfyqyK
 
 
