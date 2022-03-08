@@ -14,10 +14,12 @@ Requerimientos
 Funcionamiento
 ----------------
 1. Crear una carpeta llamada DEMOS en el escritorio.
-2. Abrir una ventana cmd y navegar hasta la carpeta DEMOS.
-3. Ejecutar la herramienta desde la línea de comandos con crack_meta.bat
-4. Elegir una de las dos opciones
-5. Esperar a que el resultado aparezca en pantalla
+2. Dentro de DEMOS copia los ficheros.
+3. Crea dentro de DEMOS una carpeta llamada 'datos_wallet'
+4. Abrir una ventana cmd y navegar hasta la carpeta DEMOS.
+5. Ejecutar la herramienta desde la línea de comandos con crack_meta.bat
+6. Elegir una de las dos opciones
+7. Esperar a que el resultado aparezca en pantalla
 
 --------
 Opciones
